@@ -63,8 +63,6 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
           
 <hr width="25%">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rl43uqvglbpyvd4kpj8iuk3e2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 
