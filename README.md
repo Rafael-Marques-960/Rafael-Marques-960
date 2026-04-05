@@ -22,9 +22,7 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  width=4% height=4%>&nbsp;&nbsp;<br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
