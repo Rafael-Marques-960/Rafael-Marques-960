@@ -1,6 +1,6 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marques960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Rafael2024143044&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%" >
 
 
 
@@ -14,20 +14,22 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 
 <h3>🔧Languages: </h3>
 <p>
+          
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"  width=4% height=4%>&nbsp; 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  width=4% height=4%>&nbsp;&nbsp;<br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  width=4% height=4%>&nbsp;&nbsp;<br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  width=4% height=4%>&nbsp;&nbsp;
+
+
+
           
 <hr width="42%">
  
