@@ -1,6 +1,6 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rafael2024143044&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Rafael-Marques-960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%" >
 
 
 
