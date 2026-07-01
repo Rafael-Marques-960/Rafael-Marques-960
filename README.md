@@ -1,12 +1,16 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rafael-Marques-960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%" >
-
-
-
-<h1> Hi there, I´m Rafael! 👋 </h1>
-
-<br>
+<table border="0" width="100%">
+  <tr>
+    <!-- Lado Esquerdo: Ilustração do PC -->
+    <td width="50%" align="left" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" width="100%">
+    </td>
+    <!-- Lado Direito: Seus Status -->
+    <td width="50%" align="right" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafael-Marques-960&show_icons=true&theme=tokyonight&count_private=true" width="90%"><br><br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafael-Marques-960&layout=compact&theme=tokyonight" width="90%">
+    </td>
+  </tr>
+</table>
 
 I'm a programming enthusiast, currently making a Computer Science Engineering Degree at @ISEC.</b>
 
@@ -56,8 +60,7 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 <p>
 <a href="https://stackoverflow.com/users/21959447/marques960" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rafael-marques-69b559177/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rafael_marques960/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height=4% width=4% /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/marquess960" target="blank"><img align="center" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;        
+<a href="https://www.instagram.com/rafael_marques960/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height=4% width=4% /></a>&nbsp;&nbsp;      
 <a href="https://open.spotify.com/user/rl43uqvglbpyvd4kpj8iuk3e2" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;
 </p>
           
